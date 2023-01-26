@@ -5,9 +5,9 @@ package exercise1;
  * It then searches the array of cards for the match to the user's card. 
  * To be used as starting code in Exercise
  *modifier che
- fetcg
+ fetcg branch
  * @author dancye
- * @author Paul Bonenfant Jan 25, 2022 
+ * @author Paul Bonenfant Jan 25, 2022  
  */
 public class CardTrick {
     
