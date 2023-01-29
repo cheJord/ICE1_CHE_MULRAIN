@@ -79,7 +79,7 @@ public class CardTrick {
         System.out.println("My name is Ché");
         System.out.println();
         
-        System.out.println("My career ambitions:");
+        System.out.println("My ambitions:");
         System.out.println("-- Gain a degree");
         System.out.println("-- Travel to different countries to work");
 	System.out.println();	
